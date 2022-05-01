@@ -10,5 +10,9 @@
     "post": {
       "belongsTo": "Post"
     }
+  },
+  "User": {
+    "firstName": { "string": {} },
+    "lastName": { "string": {} },
   }
 }
